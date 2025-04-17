@@ -13,7 +13,7 @@ An automated system for managing Secret Santa gift exchanges in organizations. T
 
 ## Documentation
 
-For user instructions and guides, please see [Instructions](docs/instructions/README.md).
+For user instructions and guides on how to run the program, please see [Instructions](docs/instructions/README.md).
 
 For detailed technical documentation, please see [Documentation](docs/documentation/README.md).
 
