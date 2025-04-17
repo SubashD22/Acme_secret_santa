@@ -8,15 +8,15 @@
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-repo/secret-santa-generator.git`
-2. Navigate to the project directory: `cd secret-santa-generator`
+1. Clone the repository: `git@github.com:SubashD22/Acme_secret_santa.git`
+2. Navigate to the project directory: `cd Acme_secret_santa`
 3. Install dependencies: `npm install`
 
 ## Running the Application
 
 1. Run the application: `npm start`
 
-2. once the application is started, it will start monitoring the drop folder for the required files.
+2. Once the application starts, it will monitor the drop folder for the required files.
 
 3. Drop the required files in the drop folder (Employee-List.xlsx and Secret-Santa-Game-Result.xlsx)
 
