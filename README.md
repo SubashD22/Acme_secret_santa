@@ -1,6 +1,6 @@
 # Secret Santa Generator
 
-An automated system for managing Secret Santa gift exchanges in organizations. This application monitors a drop folder for employee lists and previous Secret Santa assignments, generates new non-repeating matches, and creates result files while maintaining complete history.
+An automated system for managing Secret Santa gift exchanges in organizations. This application monitors a drop folder for employee lists and previous year Secret Santa assignments, generates new non-repeating matches, and creates result files.
 
 ## Features
 
@@ -8,7 +8,7 @@ An automated system for managing Secret Santa gift exchanges in organizations. T
 - Excel file processing for employee lists and previous assignments
 - Prevents repeat Secret Santa assignments from previous years
 - Generates and saves results in Excel format
-- Moves processed files to archive folder
+- Moves processed files to the processed folder
 - Error handling and validation
 
 ## Documentation
