@@ -39,7 +39,7 @@
   - Employee_Name
   - Employee_EmailID
 
-### Previous List File
+### Previous Year List File
 
 - Filename must start with `Secret-Santa-Game-Result` and end with `.xlsx`
 - Must contain columns:
